@@ -1,0 +1,13 @@
+
+
+.img_size{
+    height: 90%;
+    width: 90%;
+    border-radius: 2rem;
+}
+
+.outer{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap : 3rem;
+}   
